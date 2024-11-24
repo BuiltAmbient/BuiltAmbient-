@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Products and Services - BuiltAmbiente</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Our Services</h1>
+    </div>
+  </header>
+  <nav class="container-fluid">
+    <ul>
+      <li><strong>BuiltAmbiente</strong></li>
+    </ul>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About Us</a></li>
+      <li><a href="projects.html">Projects</a></li>
+      <li><a href="contact.html" role="button">Contact</a></li>
+    </ul>
+  </nav>
+  <main class="container">
+    <div class="grid">
+      <section>
+        <hgroup>
+          <h2>Prefabricated Products</h2>
+          <h3>Efficient and Sustainable Materials</h3>
+        </hgroup>
+        <p>We offer high-quality prefabricated panels and slabs that are both eco-friendly and cost-effective.</p>
+      </section>
+      <section>
+        <hgroup>
+          <h2>Consultancy Services</h2>
+          <h3>Expert Advice for Construction Management</h3>
+        </hgroup>
+        <p>Our consultants specialize in construction and project management, environmental services, and more.</p>
+      </section>
+      <section>
+        <hgroup>
+          <h2>Engineering Solutions</h2>
+          <h3>Innovative and Practical</h3>
+        </hgroup>
+        <p>From structural designs to energy-efficient systems, we deliver state-of-the-art engineering solutions.</p>
+      </section>
+    </div>
+  </main>
+  <footer class="container">
+    <small>&copy; 2024 BuiltAmbiente Sustainable Construction Solutions Limited. <a href="#">Privacy Policy</a> • <a href="#">Terms of Use</a></small>
+  </footer>
+</body>
+</html>
