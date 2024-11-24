@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>About Us - BuiltAmbiente</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>About Us</h1>
+    </div>
+  </header>
+  <nav class="container-fluid">
+    <ul>
+      <li><strong>BuiltAmbiente</strong></li>
+    </ul>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="services.html">Services</a></li>
+      <li><a href="projects.html">Projects</a></li>
+      <li><a href="contact.html" role="button">Contact</a></li>
+    </ul>
+  </nav>
+  <main class="container">
+    <section>
+      <hgroup>
+        <h2>Who We Are</h2>
+        <h3>Committed to a Sustainable Future</h3>
+      </hgroup>
+      <p>BuiltAmbiente specializes in eco-friendly construction solutions. Our mission is to harmonize the natural and man-made environment through innovative and sustainable practices.</p>
+      <h3>Mission</h3>
+      <p>To lead the industry in sustainable construction materials and solutions.</p>
+      <h3>Vision</h3>
+      <p>Creating a world where the natural and built environments coexist in harmony.</p>
+      <h3>Core Values</h3>
+      <ul>
+        <li>Innovation</li>
+        <li>Sustainability</li>
+        <li>Integrity</li>
+        <li>Excellence</li>
+      </ul>
+    </section>
+  </main>
+  <footer class="container">
+    <small>&copy; 2024 BuiltAmbiente Sustainable Construction Solutions Limited. <a href="#">Privacy Policy</a> • <a href="#">Terms of Use</a></small>
+  </footer>
+</body>
+</html>
