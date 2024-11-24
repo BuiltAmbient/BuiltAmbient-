@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Projects - BuiltAmbiente</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>Our Projects</h1>
+    </div>
+  </header>
+  <nav class="container-fluid">
+    <ul>
+      <li><strong>BuiltAmbiente</strong></li>
+    </ul>
+    <ul>
+      <li><a href="index.html">Home</a></li>
+      <li><a href="about.html">About Us</a></li>
+      <li><a href="services.html">Services</a></li>
+      <li><a href="contact.html" role="button">Contact</a></li>
+    </ul>
+  </nav>
+  <main class="container">
+    <section>
+      <hgroup>
+        <h2>Featured Projects</h2>
+        <h3>Innovative and Sustainable Designs</h3>
+      </hgroup>
+      <p>Explore our gallery of completed and ongoing projects.</p>
+    </section>
+    <div class="grid">
+      <figure>
+        <img src="https://source.unsplash.com/400x300/?construction" alt="Project 1">
+        <figcaption><strong>Project Name</strong> - Location</figcaption>
+      </figure>
+      <figure>
+        <img src="https://source.unsplash.com/400x300/?building" alt="Project 2">
+        <figcaption><strong>Project Name</strong> - Location</figcaption>
+      </figure>
+      <figure>
+        <img src="https://source.unsplash.com/400x300/?sustainability" alt="Project 3">
+        <figcaption><strong>Project Name</strong> - Location</figcaption>
+      </figure>
+    </div>
+  </main>
+  <footer class="container">
+    <small>&copy; 2024 BuiltAmbiente Sustainable Construction Solutions Limited. <a href="#">Privacy Policy</a> • <a href="#">Terms of Use</a></small>
+  </footer>
+</body>
+</html>
