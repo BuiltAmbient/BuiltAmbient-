@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>BuiltAmbiente Sustainable Construction Solutions</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+  <style>
+    body {
+      font-family: "Roboto", sans-serif;
+      line-height: 1.6;
+      color: #333;
+      background-color: #f9f9f9;
+    }
+    header, footer {
+      background-color: #2e7d32;
+      color: white;
+      padding: 1rem;
+    }
+    header h1 {
+      margin: 0;
+    }
+    footer small {
+      color: #ccc;
+    }
+    .hero {
+      background: url('https://source.unsplash.com/1600x900/?sustainability,construction') no-repeat center center/cover;
+      color: white;
+      text-align: center;
+      padding: 4rem 1rem;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+      gap: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>BuiltAmbiente</h1>
+      <p>Sustainable Construction Solutions</p>
+    </div>
+  </header>
+  <nav class="container-fluid">
+    <ul>
+      <li><strong>BuiltAmbiente</strong></li>
+    </ul>
+    <ul>
+      <li><a href="#about">About Us</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#contact" role="button">Contact</a></li>
+    </ul>
+  </nav>
+  <main class="container">
+    <section class="hero">
+      <h2>Harmonising the Natural and Man-Made Environment</h2>
+      <p>Eco-friendly solutions for sustainable construction in Uganda and beyond.</p>
+    </section>
+    <div class="grid">
+      <section>
+        <hgroup>
+          <h2>About Us</h2>
+          <h3>Innovating for a Sustainable Future</h3>
+        </hgroup>
+        <p>BuiltAmbiente specializes in eco-friendly construction materials and innovative solutions to create harmony between the natural and built environments.</p>
+        <a href="#about" role="button">Learn More</a>
+      </section>
+      <section>
+        <hgroup>
+          <h2>Our Services</h2>
+          <h3>Comprehensive Offerings</h3>
+        </hgroup>
+        <p>We provide prefabricated products, consultancy services, and engineering solutions tailored to your needs.</p>
+        <a href="#services" role="button">Explore Services</a>
+      </section>
+      <section>
+        <hgroup>
+          <h2>Projects</h2>
+          <h3>Our Success Stories</h3>
+        </hgroup>
+        <p>See how we’ve transformed ideas into sustainable structures through innovative designs and materials.</p>
+        <a href="#projects" role="button">View Projects</a>
+      </section>
+    </div>
+  </main>
+  <footer class="container">
+    <small>&copy; 2024 BuiltAmbiente Sustainable Construction Solutions Limited. <a href="#">Privacy Policy</a> • <a href="#">Terms of Use</a></small>
+  </footer>
+</body>
+</html>
